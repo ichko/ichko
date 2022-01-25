@@ -1,9 +1,9 @@
 ### Hi there 👋
 
-<img style="width: 250px" src="https://i.giphy.com/media/HUxzwyK9nuDWGbPV7Y/giphy.webp">
+<!-- <img style="width: 250px" src="https://i.giphy.com/media/HUxzwyK9nuDWGbPV7Y/giphy.webp">
 
 **Fig. 1** - [CPPN](https://ichko.github.io/cppns) self portrait.
-
+ -->
 <!--
 **ichko/ichko** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
