@@ -1,8 +1,8 @@
 ### Hi there 👋
 
-![](https://ichko.github.io/assets/common/introduction.svg)
+<!-- ![](https://ichko.github.io/assets/common/introduction.svg)
 **Fig. 1** - [CPPN](https://ichko.github.io/cppns) self portrait.
-
+ -->
 <!--
 **ichko/ichko** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
